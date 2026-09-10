@@ -10,7 +10,7 @@ Bonus 1 was implemented using a C# script that changes the cube's material color
 
 ## Scene 2 - Maze
 
-This scene contains a maze that can be navigated using a character controller. The camera uses a top-down perspective.
+This scene contains a maze that can be navigated using a character controller.
 
 ![Scene 2](Screenshots/Scene2.png)
 
